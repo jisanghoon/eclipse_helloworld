@@ -7,6 +7,8 @@ public class HelloWorld {
 		System.out.println("hotfix에서 작업");
 		System.out.println("master에서 작업");
 		System.out.println("의도적 충돌하기 위한 라인추가");
+		
+		System.out.println("github에서 작업");
 	}
 
 }
